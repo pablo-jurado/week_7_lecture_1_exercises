@@ -1,4 +1,4 @@
-1) What is the index of the first item in an array?
+1)What is the index of the first item in an array?
 
 **answer a. 0**
 
@@ -10,7 +10,7 @@ d. .first()
 
 ---
 
-2) Array literals are denoted by:
+2)Array literals are denoted by:
 
 **answer a. An opening square bracket, a comma separated list of data, and a closing square bracket.**
 
@@ -22,7 +22,7 @@ d. A pair of double quotation marks followed by a semicolon.
 
 ---
 
-3) Which of the following are examples of accessing a particular element from an array named groceries? (Select all that apply)
+3)Which of the following are examples of accessing a particular element from an array named groceries? (Select all that apply)
 
 **answer a. groceries[2] = "Broccoli";**
 
@@ -34,7 +34,7 @@ d. var item = groceries.get(2);
 
 ---
 
-4) What does the Array object's .unshift() method do?
+4)What does the Array object's .unshift() method do?
 
 a. Adds an item to the end of the array
 
@@ -46,7 +46,7 @@ d. Removes and returns the first item in an array
 
 ---
 
-5) Which method of Array can be used to iterate over the elements contained in the Array?
+5)Which method of Array can be used to iterate over the elements contained in the Array?
 
 a. for()
 
